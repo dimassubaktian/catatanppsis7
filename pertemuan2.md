@@ -1,5 +1,9 @@
 # PERTEMUAN KEDUA
 ---
+Daftar Isi
+  
+  [link ke petanikode](#objectivitas-kuliah)
+
 ## Objectivitas Kuliah
 * Kebutuhan manajemen proyek yang lebih biak
 * apa itu proyek IT dan ... dalam manajemen proyek 
