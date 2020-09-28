@@ -2,7 +2,19 @@
 ---
 Daftar Isi
   
-  [link ke petanikode](#objectivitas-kuliah)
+  * [Objective Kuliah](#objectivitas-kuliah)
+  * [Mengapa manajemen proyek dibutuhkan](#mengapa-manajemen-proyek-dibutuhkan)
+  * [Apa yang salah jika kita tidak menggunakan manajemen proyek](#apa-yang-salah-jika-kita-tidak-menggunakan-manajemen-proyek)
+  * [Apa itu proyek?](#objectivitas-kuliah)
+  * [Contoh proyek IT](#objectivitas-kuliah)
+  * [Atribut dalam Proyek](#objectivitas-kuliah)
+  * [Konstrain Proyek](#objectivitas-kuliah)
+  * [Apa itu manajemen proyek](#objectivitas-kuliah)
+  * [Project Stackholder](#objectivitas-kuliah)
+  * [Tool dan Teknik manajemen](#objectivitas-kuliah)
+  * [Apa yang terjadi jika kita menggunakan manajemen proyek](#objectivitas-kuliah)
+  * [Keberhasilan proyek](#objectivitas-kuliah)
+  * [Dua konsep yang membantu proyek mencapai enterprise goals](#objectivitas-kuliah)
 
 ## Objectivitas Kuliah
 * Kebutuhan manajemen proyek yang lebih biak
