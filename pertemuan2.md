@@ -35,3 +35,20 @@
 * Sistem Informasi
 * Aplikasi Mobile
 
+## Atribut dalam Proyek
+* Memiliki tujuan yang unik
+* Bersifat temporer
+* Adanya perubahan dalam penciptaan nilai
+* Dikembangkan dengan elaborasi yang bersifat progressif
+* Membutuhkan sumber daya dari seluruh area
+* Melibatkan ketidakpastian
+* Memiliki customer dan sponsor
+
+Proyek manajer harus berkeja sama dengan proyek sponsor, tim, dan orang yang terlibat dalam proyek untuk menyelesaikan target proyek
+
+## Konstrain Proyek
+* Memiliki ruang lingkup
+* Memiliki biaya
+* Memiliki waktu
+
+
