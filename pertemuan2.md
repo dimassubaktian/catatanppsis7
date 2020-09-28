@@ -1,6 +1,6 @@
 # PERTEMUAN KEDUA
 ---
-Daftar Isi
+## Daftar Isi
   
   * [Objective Kuliah](#objectivitas-kuliah)
   * [Mengapa manajemen proyek dibutuhkan](#mengapa-manajemen-proyek-dibutuhkan)
@@ -15,6 +15,8 @@ Daftar Isi
   * [Apa yang terjadi jika kita menggunakan manajemen proyek](#objectivitas-kuliah)
   * [Keberhasilan proyek](#objectivitas-kuliah)
   * [Dua konsep yang membantu proyek mencapai enterprise goals](#objectivitas-kuliah)
+  * [Perbedaan](#objectivitas-kuliah)
+  * [Peran dan Deskripsi Kerja Project Manager](#objectivitas-kuliah)
 
 ## Objectivitas Kuliah
 * Kebutuhan manajemen proyek yang lebih biak
