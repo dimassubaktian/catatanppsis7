@@ -1,5 +1,6 @@
-# Pertemuan ke 2
-### Objectivitas Kuliah
+# PERTEMUAN KEDUA
+---
+## Objectivitas Kuliah
 * Kebutuhan manajemen proyek yang lebih biak
 * apa itu proyek IT dan ... dalam manajemen proyek 
 * Elemen dalam area pengetahuan manajemen proyek
@@ -16,3 +17,21 @@
 * koordinaasi internal menjadi lebih baik
 * memberikan positif impact -> strategic goals
 * Meningkatkan moral pekerja
+
+## Apa yang salah jika kita tidak menggunakan manajemen proyek
+* Pada sebuah perusahaan standish group 1995 16% proyek selesai, 53% sulit, 37% batal
+* Pada perusahaan pricewaterhousecoopers hanya 2.5% yang berhasil mencapai target
+
+## Apa itu proyek?
+* Keyword: Activities, Goals.
+
+  Proyek merupakan sebuah progress yang sifatnya sementara yang diakukan untuk membuat sebuah produk unik, layanan, atau hasil.
+    
+  operasi yang telah selesai untuk mempertahankan bisnis
+  
+  aktivitas yang dilakukan untuk mencapai tujuan
+
+## Contoh proyek IT
+* Sistem Informasi
+* Aplikasi Mobile
+
